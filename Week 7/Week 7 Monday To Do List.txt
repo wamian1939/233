@@ -1,0 +1,65 @@
+Week 7 Monday To Do List
+
+Admin/Tips
+Assignment 2 worth 13 marks will be released today @ 7pm
+
+Quiz 4 worth 4 marks is due Week 7 Thursday 28/3 @ 9pm
+
+
+Content
+Week 7 Notes 8 Card shuffling
+
+Unicode character set
+
+List comprehension
+
+String join() method
+
+List extend() method
+
+slices
+
+getsizeof() from the sys module
+
+Command line arguments
+
+Week 7 Notes 9 US Social Security Data on Given Names
+
+Files and folders manipulation
+
+Useful Links
+Playing cards in Unicode
+https://en.wikipedia.org/wiki/Playing_cards_in_Unicode
+
+Admin/Tips
+Quiz 5 worth 4 marks will be released today @ 7pm
+
+Quiz 4 worth 4 marks is due tomorrow Thursday 28/03/24 @ 9pm
+
+Assignment 2 worth 13 marks is due Week 11 Monday 22/04/24 @ 10am
+
+
+Content 
+Week 7 Notes 9 US Social Security Data on Given Names (cont'd)
+
+Files and folders manipulation
+
+Week 7 Notes 10 K-means clustering
+
+namedtuple from collections
+
+math.hypot()
+
+matplotlib.pyplot
+
+Extra Note ASCII Art
+ 
+
+Discuss Assignment 2
+
+Discuss Quiz 5
+
+
+Useful Links
+defaultdict (same as dict but never raises a KeyError)
+https://www.geeksforgeeks.org/defaultdict-in-python/
