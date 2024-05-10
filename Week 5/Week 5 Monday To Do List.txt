@@ -1,0 +1,69 @@
+Week 5 Monday To Do List
+
+Admin/Tips
+Quiz 2 marks and sample solution released
+
+Quiz 3 worth 4 marks is due Week 5 Thursday 14/3 @ 9pm
+
+Assignment 1 worth 13 marks is due Week 7 Monday 25/3 @ 10am
+
+
+Content
+Classes
+
+
+Useful Links
+Help function in Python:
+https://www.geeksforgeeks.org/help-function-in-python/
+
+Python help() Method
+https://www.tutorialsteacher.com/python/help-method
+
+Difference between Method and Function in Python
+https://www.geeksforgeeks.org/difference-method-function-python/
+
+------------------------------------------------------------------------------------------------
+
+Week 5 Wednesday To Do List
+
+Admin/Tips
+Quiz 4 worth 4 marks will be released today @ 7pm
+
+Quiz 3 worth 4 marks is due tomorrow Thursday 14/3 @ 9pm
+
+Assignment 1 worth 13 marks is due Week 7 Monday 25/3 @ 10am
+
+
+Content
+Week 5 Notes 6 Eratosthenes' Sieve
+
+imprecision of floating point calculation
+
+int() vs round(), rounding half to even
+
+string formatting
+
+range([first],last,[step]) function
+
+iterables vs iterators, iter()
+
+chain() function from itertools library
+
+timeit() function returns a time the execution takes in seconds as a float
+
+Week 5 Notes 7 Euler's Sieve
+
+Using _ as thousands separator, for instance, 10_000
+
+Matplotlib library - see examples in Ed shared Workspace Week 5 Plotting:
+https://edstem.org/au/courses/14891/workspaces/pOjZ64SRriGaNLci79NPoq1snqQFZ26a
+
+global variable
+
+
+Useful Links
+Sieve of Eratosthenes
+https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
+Sieve of Euler
+https://programmingpraxis.com/2011/02/25/sieve-of-euler/#:~:text=The%20great%20Swiss%20mathematician%20Leonhard,cost%20of%20some%20additional%20bookkeeping.&text=Third%2C%20%E2%80%9Csubtract%E2%80%9D%20the%20new,appear%20in%20the%20new%20list
