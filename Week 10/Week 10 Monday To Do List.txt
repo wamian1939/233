@@ -1,0 +1,60 @@
+Week 10 Monday To Do List
+
+Admin/Tips
+Assignment 2 worth 13 marks is due Week 11 Monday 22/04/24 @ 10am
+
+Final Exam worth 50 marks to be held on Friday 3 May 2024
+
+There will be two (2) morning and afternoon back to back sessions with corralling for the afternoon session
+
+Morning students can't leave until the afternoon students are properly corralled
+
+Session preference form should have been released to students today Monday Week 10
+
+Seating allocations released on Tuesday Week 11 (Study Break)
+
+More on Final Exam in our last review class on Wednesday Week 10
+
+
+Content
+Week 10 Notes 15 Context Free Grammars
+
+The Unicode of the alphabet character ε is 03B5 (hexadecimal) or 949 (decimal)
+
+...
+
+Week 10 Notes 16 Three Special Perfect Squares
+
+...
+
+Searching and Sorting
+
+
+Useful Links
+Context-free grammar
+https://en.wikipedia.org/wiki/Context-free_grammar
+
+A tour of the top 5 sorting algorithms with Python code
+https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Admin/Tips
+Assignment 2 worth 13 marks is due Week 11 Monday 22/04/24 @ 10am
+
+Final Exam worth 50 marks to be held on Friday 3 May 2024
+
+
+Content 
+Week 10 - Review
+
+Final Exam Environment
+
+Discuss Quiz 8
+
+New Set of Sample Exam Questions 2 for More Practice
+
+
+Useful Links
+itertools.permutations
+https://docs.python.org/3/library/itertools.html#itertools.permutations
