@@ -1,0 +1,80 @@
+Week 9 Monday To Do List
+
+Admin/Tips
+Quiz 6 worth 4 marks is due Week 9 Thursday 11/4/24 @ 9pm
+
+Assignment 2 worth 13 marks is due Week 11 Monday 22/04/24 @ 10am 
+
+
+Content
+Week 9 Notes 13 Quadratic Equations
+
+Keyword arguments
+
+Positional arguments
+
+Functional design
+
+Package design
+
+Object-oriented design
+
+Solve Sample Exam Question 2
+
+Discuss Assignment 2
+
+Discuss Quiz 6
+
+Week 9 Wednesday To Do List
+
+Admin/Tips
+Quiz 6 worth 4 marks is due tomorrow Week 9 Thursday 11/4/24 @ 9pm
+
+Assignment 2 worth 13 marks is due Week 11 Monday 22/04/24 @ 10am 
+
+Final Exam worth 50 marks to be held on Friday 3 May 2024
+
+There will be two (2) morning and afternoon back to back sessions with corralling for the afternoon session. Morning students can't leave until the afternoon students are properly corralled.
+
+Session preference form will be released to students on Monday Week 10
+
+Seating allocations released on Tuesday Week 11 (Study Break)
+
+
+Content 
+Week 9 Notes 14 Levenshtein Distance
+
+See also https://edstem.org/au/courses/14891/workspaces/pXfncIjnout1XYSf5S2ei4y4rKdshCih
+
+Solve Sample Exam Questions 5 and 7
+
+Discuss Assignment 2
+
+LF (Line Feed or \n) and CR (Carriage Return or \r).
+
+Unix uses \n but Windows uses \r\n. Use \n since Ed is based on Linux.
+
+Windows usually need both \n\r.
+
+\n is a newline only, \r\n is a newline and a carriage return (i.e., move the cursor to the left).
+
+\n is the default in Unix \r\n is the default in Windows.
+
+I may have generated the BigestMaze.tex using Spyder in my Windows machine. That is why the \r\n.
+
+If you generate the file using Ed, you should get \n only. Please do use \n.
+
+Discuss Quiz 6
+
+
+Useful links about Levenshtein distance
+Levenshtein distance
+https://en.wikipedia.org/wiki/Levenshtein_distance
+
+Levenshtein Distance, in Three Flavors https://people.cs.pitt.edu/~kirk/cs1501/Pruhs/Spring2006/assignments/editdistance/Levenshtein%20Distance.htm
+
+Another Python version of Levenshtein distance https://folk.idi.ntnu.no/mlh/hetland_org/coding/python/levenshtein.py
+
+Levenshtein Distance
+https://python-course.eu/levenshtein_distance.php
+
