@@ -1,0 +1,108 @@
+Week 2 Monday To Do List
+
+Admin/Tips
+
+Quiz 1 worth 4 marks will be released Wednesday and due Week 3 Thursday 9pm (you will have eight days to do it)
+
+Assignment 1 worth 13 marks will be released Monday Week 3
+
+Content
+
+Briefly continue "Week 1 - Python Programming Fundamentals" with "Working with strings" slide
+
+Empty string, escape characters, concatenating strings, comparing strings, len() function, and string methods
+
+Working with booleans, boolean operators not, and, and or
+
+if statements, body/block, indentation, elif, and match
+
+while statements, continue, and break
+
+Exceptions, try, except, and else
+
+Working with files, open(), clode(), with(), 
+
+Show the flowchart - problem solving from requirements, example.py rewritten using match
+
+Go through "Week 2 - Lists, Tuples, Sets, and Dictionaries"
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Week 2 Wednesday To Do List
+Admin/Tips
+Quiz 1 worth 4 marks will be released today @ 7pm
+
+Assignment 1 worth 13 marks will be released Week 3 Monday
+
+Content
+Continue "Week 2 - Lists, Tuples, Sets, and Dictionaries" from "Adding  elements" slide
+
+Adding elements
+
+Adding to a list: append(), insert(), extend(), and using + operator
+
+No adding to tuples since they are immutable
+
+Adding to a set: add() and update()
+
+Adding to a dictionary by specify a value for a new key or updating it
+
+Removing elements
+
+Removing from a list: del, set slice to empty list, pop(), remove(), and clear()
+
+No removing from tuples since they are immutable
+
+Removing from a set: remove() ,  discard(), and clear()
+
+Removing from a dictionary: del, pop(), and clear()
+
+Modifying elements
+
+Modifying list elements: assignment and slice
+
+No tuples modification since they are immutable
+
+Modifying set elements: can not be changed, but remove then add
+
+Modifying dictionary elements: using assignment similarly to list elements
+
+Sorting elements
+
+sort() method (lists only and in-place)
+
+sorted() method (applies to all and returns a list)
+
+Joining elements using join()
+
+Special string operations
+
+Strings as tuples
+
+Splitting strings
+
+Special set operations: union, intersection, difference, symmetric difference, comparing sets
+
+Looping through a collection
+
+for loops
+
+break and continue
+
+Comprehensions
+
+The range() function
+
+Files as lists: readlines(), writelines(), reading CSV files
+
+Dates and times
+
+Useful Links
+ASCII Table
+https://www.ascii-code.com/
+
+Python List sort() Method 
+https://www.programiz.com/python-programming/methods/list/sort
+
+Python sorted() Method
+https://www.programiz.com/python-programming/methods/built-in/sorted
