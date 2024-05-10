@@ -1,0 +1,36 @@
+Week 1 Wednesday To Do List
+Week 1 Wednesday To Do List
+
+Admin/Tips
+
+Check Consultation/Tutorial Timetable since some locations have changed
+
+Python 3 Cheat Sheet - allowed in final exam (as a soft copy)
+
+There is a PDF version of "Week 1 - Python Programming Fundamentals"
+
+Ed Python Editor
+
+CTRL + / to comment/uncomment a selected code
+CTRL + ] to add one indentation for a selected code
+CTRL + [ to remove one indentation for a selected code
+
+Reset to Scaffold if accidently deleting practice/quiz/assignment files. However, save work first by clicking on  button.
+
+Release Practice Exercises Solutions (exceptionally for Week 1) today In forthcoming weeks these will be released Thursday noon.
+
+Content
+
+Continue "Week 1 - Python Programming Fundamentals" with "Importing modules" slide
+
+If statements including match new Python statement
+
+While statements
+
+Exceptions
+
+Working with files
+
+Show the flowchart - problem solving from requirements
+
+Show how to run Turing machine simulator
