@@ -1,0 +1,40 @@
+Week 8 Wednesday To Do List
+
+Admin/Tips
+Plagiarism - Several Suspected Cases in Assignment 1 and Quizzes 1-4 so far
+
+Quiz 6 worth 4 marks will be released today @ 7pm
+
+Quiz 5 worth 4 marks is due tomorrow Thursday 04/04/24 @ 9pm
+
+Assignment 2 worth 13 marks is due Week 11 Monday 22/04/24 @ 10am
+
+
+Content 
+Week 8 Notes 11 The Tower and Marbles Puzzle
+
+The tower and marbles puzzle - n levels and m marbles
+
+Particular Case m = 2
+
+random.randint()
+
+dict.fromkeys()
+
+General case
+
+List comprehension
+
+Nicely display a rectangle - string formatting
+
+Week 8 Notes 12 The Game of Life
+
+numpy module
+
+Comprehensive List vs Non-Comprehensive List
+
+Solve Sample Exam Question 1
+
+Discuss Assignment 2
+
+Discuss Quiz 6
