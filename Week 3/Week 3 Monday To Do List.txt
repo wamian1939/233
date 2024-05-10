@@ -1,0 +1,91 @@
+Week 3 Monday To Do List
+Admin/Tips
+Assignment 1 worth 13 marks will be released  today @ 7pm
+
+Quiz 1 worth 4 marks is due Week 3 Thursday @ 9pm
+
+Content
+Functions
+
+Defining functions
+
+Variable scope
+
+Nested functions
+
+Lambda functions
+
+Functions are objects
+
+Comprehensions (from Week 2)
+
+Generators
+
+Useful Links
+For examples of Flow of Execution, see: https://runestone.academy/ns/books/published/thinkcspy/Functions/FlowofExecutionSummary.html
+
+Vowel stripper improved (Week 2 Practice Exercise):
+https://edstem.org/au/courses/14891/workspaces/pz0BEYNCvC1ayL6QKsiNkTcWt5Pp1j2Z
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Week 3 Wednesday To Do List
+Admin/Tips
+Leftover from last lecture (see useful links)
+
+For an example of final exam questions using doctest, see
+https://edstem.org/au/courses/14891/workspaces/pHpyAUTHJtJS6nA6crzYIdcbdaVmhZTP)
+
+Ed time delay issue (see https://edstem.org/au/courses/14891/discussion/1752072)
+
+Tutor Hongliang Ho not available from Week 4 (see updated consultations timetable)
+
+Special Consideration for Quizzes, Assignments, and Final Exam
+
+Assignment 1 discussion (see third useful link https://www.periodni.com/roman_numerals_converter.html)
+
+Quiz 2 worth 4 marks will be released today @ 7pm
+
+Quiz 1 worth 4 marks is due tomorrow Thursday @ 9pm
+
+Content
+Week 3 Notes 2 - The Monty Hall Problem
+
+functions from the random module (random(), choice(), randrange(), seed(), ...)
+
+input() function
+
+int() function
+
+exceptions
+
+break statement
+
+istitle() and lower() str class methods
+
+sets, sets vs dictionaries
+
+choice() function
+
+randrange()  function
+
+remove() and pop() list class methods
+
+multiple assignments
+
+functions with default parameter values 
+
+formatted strings
+
+12 possible outcomes:
+winning door A A A A B B B B C C C C
+first chosen A A B C B B A C C C A B
+opened door  B C C B A C C A A B B A
+24 possible outcomes:
+winning door    A A A A A A A A B B B B B B B B C C C C C C C C
+first chosen    A A A A B B C C B B B B A A C C C C C C A A B B
+opened door     B B C C C C B B A A C C C C A A A A B B B B A A 
+2nd chosen door A C A B A B A C B C B A B A B C C B C A C A C B
+Useful Links
+doctest — Test interactive Python examples (will be used for final exam questions)
+https://docs.python.org/3/library/doctest.html
