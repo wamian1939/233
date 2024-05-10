@@ -1,0 +1,61 @@
+Week 4 Monday To Do List
+Admin/Tips
+Quiz 1 marks and sample solution released
+
+Quiz 2 worth 4 marks is due Week 4 Thursday @ 9pm
+
+Assignment 1 worth 13 marks is due Week 7 Monday @ 10am
+
+Content
+Modules and Recursion
+
+Week 4 - Notes 3 The Towers of Hanoi
+
+----------------------------------------------------------------------------------
+
+Week 4 Wednesday To Do List
+Admin/Tips
+Quiz 3 worth 4 marks will be released today @ 7pm
+
+Quiz 2 worth 4 marks is due tomorrow Thursday @ 9pm
+
+Assignment 1 worth 13 marks is due Week 7 Monday @ 10am
+
+
+Content
+Week 4 Notes 4 The Fibonacci Sequence
+
+yield statement
+
+functools module
+
+itertools module
+
+islice() function
+
+lru_cache() function
+
+Week 4 Notes 5 From Decimal Expansions to Reduced Fractions
+
+Using _ as thousands separator, for instance, 10_000
+
+gcd() (greatest common divisor) function
+
+/, //, and % operators
+
+divmod() function
+
+bool() function when condition is not a boolean expression
+
+Unpacking tuple elements into function arguments
+
+
+Useful Links
+When to use yield instead of return in Python?
+https://www.geeksforgeeks.org/use-yield-keyword-instead-return-keyword-python/
+
+functools module
+https://docs.python.org/3/library/functools.html
+
+itertools module
+https://docs.python.org/3/library/itertools.html#module-itertools 
